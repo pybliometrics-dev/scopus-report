@@ -1,0 +1,4 @@
+matplotlib
+pbr
+scholarmetrics
+scopus>=1.0
